@@ -25,20 +25,20 @@
     "express": "^4.13.4",
     "express-partials": "^0.2.0",
     "express-session": "^1.13.0",
-    "grunt": "^0.4.4",
-    "grunt-contrib-concat": "^1.0.0",
-    "grunt-contrib-cssmin": "^1.0.1",
-    "grunt-contrib-uglify": "^1.0.1",
+    "grunt": "^1.0.0",
+    "grunt-contrib-concat": "^2.0.0",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-uglify": "^5.2.1",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-eslint": "^18.0.0",
+    "grunt-eslint": "^20.1.0",
     "grunt-mocha-test": "^0.12.7",
     "grunt-nodemon": "^0.4.1",
-    "grunt-shell": "^1.2.1",
+    "grunt-shell": "^3.0.0",
     "knex": "^0.10.0",
     "mocha": "^2.4.5",
     "mongoose": "^4.4.10",
     "request": "^2.34.0",
-    "sqlite3": "~3.1.1"
+    "sqlite3": "~5.0.3"
   },
   "devDependencies": {
     "supertest": "^1.2.0"
